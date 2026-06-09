@@ -168,6 +168,8 @@ Nos da ionforme de:
 
 <img width="917" height="599" alt="image" src="https://github.com/user-attachments/assets/fe11a8de-9f92-49fa-a81e-a808ccc2ed07" />
 
+<img width="443" height="519" alt="image" src="https://github.com/user-attachments/assets/983283ef-c0d7-4f58-b6b1-3efe3c27b139" />
+
 # \- Proyecto Completo con las siguientes funcionalidades completas:
 
 # &#x20; \* Conexión a Base de Datos
