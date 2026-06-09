@@ -38,9 +38,9 @@
 
 # 
 
-# <img width="490" height="407" alt="image" src="https://github.com/user-attachments/assets/59f33a7c-91c7-4fb2-8336-372ff487a82b" />
+<img width="1035" height="655" alt="image" src="https://github.com/user-attachments/assets/5c09173b-c906-4fc5-b491-820147cfc7ae" />
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/5653be56-5683-4f43-9410-3f311c185d02" />
 
-# <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/877d27c8-5072-4a19-84b1-3ce36a4f8e8b" />
 
 # 
 
@@ -98,27 +98,35 @@
 
 # 
 
-# <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/2285029c-022d-4294-8d16-0d864443363d" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/64df3037-cd70-42df-9c3a-3e26647c9054" />
 
-# <img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/05494b95-50d6-45ef-87bb-a0d2d9b7c27d" />
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/cd47990e-fc74-438d-a897-66785de8953e" />
 
 # 
 
 # \- Vistas - CRUD
 
-# &#x20; <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/ebfc4825-cc6e-489a-a38a-8579ef3275cc" />
+<img width="1345" height="864" alt="image" src="https://github.com/user-attachments/assets/96766a98-2bf1-47b7-bd1c-37d7002deb37" />
 
 # &#x20;   \*Imagen de la vista de productos\*
 
-# &#x20;   Proximamente en la version 3 se va realizar la creacion de la vista de proveedor y las union de esta con la entidad de producto.
+Nos da ionforme de:
+-Valor total del inventario
+-Unidades total
+-Precio promedio de los items
 
-# 
+<img width="1308" height="852" alt="image" src="https://github.com/user-attachments/assets/d38b7930-0734-4fd3-b6a5-89e2c9de3e2f" /> 
+
+# &#x20;   \*Imagen de la vista de proveedores\*
+Nos da ionforme de:
+-Total proveedores
+-Ciudades distintas
+-Ultimo proveedor registrado
 
 # \-  \*\* Salir \*\* con mensaje informativo de cierre de sesión.
 
-# <img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/4929cf51-b3f6-46da-b3cf-6b0f1a1b9dd8" />
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/5032ac11-b910-4df3-991c-1b327815d6da" />
 
-# <img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/f822ba52-7094-4206-bb68-170012d9df17" />
 
 # 
 
@@ -152,19 +160,15 @@
 
 # Driver JDBC
 
-# Clonacion del proyecto: https://github.com/KevinGrateron/POO\_2026\_E192.git
+# Clonacion del proyecto: https://github.com/KevinGrateron/POO_2026-1_E192_PROYECTO-FINAL.git
 
 # 
 
 # \- Script y Diagrama Entidad Relación de la Base de Datos
 
-# &#x20; <img width="1912" height="1013" alt="image" src="https://github.com/user-attachments/assets/76ba6fd7-3d35-4892-b932-dbbe953d11af" />
+<img width="917" height="599" alt="image" src="https://github.com/user-attachments/assets/fe11a8de-9f92-49fa-a81e-a808ccc2ed07" />
 
 # \- Proyecto Completo con las siguientes funcionalidades completas:
-
-# &#x20; \* Gestión del Menú
-
-# &#x20;   <img width="1595" height="893" alt="image" src="https://github.com/user-attachments/assets/ce805b27-4169-4389-a4c4-3bef4469cfd8" />
 
 # &#x20; \* Conexión a Base de Datos
 
@@ -172,5 +176,5 @@
 
 # &#x20; \* Un CRUD por grupo funcionando con acceso a la Base de Datos
 
-# &#x20;   <img width="965" height="580" alt="image" src="https://github.com/user-attachments/assets/fedcb89b-3e6b-4545-a8f2-492ca38ba818" />
+<img width="1304" height="845" alt="image" src="https://github.com/user-attachments/assets/fb9caa01-063e-4049-9ea4-f28b43547cc3" />
 
